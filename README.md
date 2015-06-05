@@ -1,6 +1,6 @@
 # spring-mvc-core
 
-This a RESTFul web service project using JBoss RESTEasy, Spring, JPA and Hibernate.
+This a RESTFul web service project using JBoss RESTEasy, Spring MVC, JPA and Hibernate.
 
 We are going to create a service to CRUD users (name, email, password).
 
